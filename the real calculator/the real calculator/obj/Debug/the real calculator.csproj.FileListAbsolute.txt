@@ -1,0 +1,10 @@
+C:\Users\DR.tech\Desktop\programming\VS prgramms\the real calculator\the real calculator\bin\Debug\the real calculator.exe.config
+C:\Users\DR.tech\Desktop\programming\VS prgramms\the real calculator\the real calculator\bin\Debug\the real calculator.exe
+C:\Users\DR.tech\Desktop\programming\VS prgramms\the real calculator\the real calculator\bin\Debug\the real calculator.pdb
+C:\Users\DR.tech\Desktop\programming\VS prgramms\the real calculator\the real calculator\obj\Debug\the real calculator.csproj.AssemblyReference.cache
+C:\Users\DR.tech\Desktop\programming\VS prgramms\the real calculator\the real calculator\obj\Debug\the_real_calculator.Form1.resources
+C:\Users\DR.tech\Desktop\programming\VS prgramms\the real calculator\the real calculator\obj\Debug\the_real_calculator.Properties.Resources.resources
+C:\Users\DR.tech\Desktop\programming\VS prgramms\the real calculator\the real calculator\obj\Debug\the real calculator.csproj.GenerateResource.cache
+C:\Users\DR.tech\Desktop\programming\VS prgramms\the real calculator\the real calculator\obj\Debug\the real calculator.csproj.CoreCompileInputs.cache
+C:\Users\DR.tech\Desktop\programming\VS prgramms\the real calculator\the real calculator\obj\Debug\the real calculator.exe
+C:\Users\DR.tech\Desktop\programming\VS prgramms\the real calculator\the real calculator\obj\Debug\the real calculator.pdb
